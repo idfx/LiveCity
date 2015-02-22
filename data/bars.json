@@ -1,0 +1,260 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1007805,
+          49.2813795
+        ]
+      },
+      "properties": {
+        "name": "Balmoral Hotel",
+        "price": "1",
+        "sketchiness": 2,
+        "hours": "9-17",
+        "cover": "false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0945636,
+          49.2807571
+        ]
+      },
+      "properties": {
+        "name": "Pat's Pub",
+        "price": 1,
+        "sketchiness": 1,
+        "hours": "9-17",
+        "cover": "false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1075951,
+          49.2814446
+        ]
+      },
+      "properties": {
+        "name": "The Hastings Warehouse",
+        "price": 2,
+        "sketchiness": 0,
+        "hours": "0-5",
+        "cover": "false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1067532,
+          49.2826067
+        ]
+      },
+      "properties": {
+        "name": "The Metropole Community Pub",
+        "price": 1,
+        "sketchiness": 0,
+        "hours": "5-10",
+        "cover": "true"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.087906,
+          49.281265
+        ]
+      },
+      "properties": {
+        "name": "Astoria Hotel",
+        "price": 1,
+        "sketchiness": 2,
+        "hours": "3-8",
+        "cover": "false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.106012,
+          49.282364
+        ]
+      },
+      "properties": {
+        "name": "The Bourbon",
+        "price": 2,
+        "sketchiness": 1,
+        "hours": "9-20",
+        "cover": "true"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1024377,
+          49.2822568
+        ]
+      },
+      "properties": {
+        "name": "Whiskey Dix",
+        "price": 2,
+        "sketchiness": 1,
+        "hours": "7-24",
+        "cover": "true"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1059471,
+          49.2817929
+        ]
+      },
+      "properties": {
+        "name": "Funky Winker Beans",
+        "price": 1,
+        "sketchiness": 2,
+        "hours": "12-24",
+        "cover": "After 7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.100228,
+          49.284265
+        ]
+      },
+      "properties": {
+        "name": "Alibi Room",
+        "price": 2,
+        "sketchiness": 0,
+        "hours": "5-24",
+        "cover": "false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.10834,
+          49.28405
+        ]
+      },
+      "properties": {
+        "name": "Pourhouse Restaurant",
+        "price": 3,
+        "sketchiness": 0,
+        "hours": "9-24",
+        "cover": "false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.10372,
+          49.283489
+        ]
+      },
+      "properties": {
+        "name": "Guilt & Co",
+        "price": 2,
+        "sketchiness": 0,
+        "hours": "6-17",
+        "cover": "false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1065251,
+          49.2835013
+        ]
+      },
+      "properties": {
+        "name": "Revel Room",
+        "price": 3,
+        "sketchiness": 0,
+        "hours": "8-16",
+        "cover": "false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.10443,
+          49.283429
+        ]
+      },
+      "properties": {
+        "name": "Six Acres",
+        "price": 3,
+        "sketchiness": 0,
+        "hours": "5-15",
+        "cover": "false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.098974,
+          49.277731
+        ]
+      },
+      "properties": {
+        "name": "The Union",
+        "price": 3,
+        "sketchiness": 0,
+        "hours": "8-22",
+        "cover": "false"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.115026,
+          49.2829
+        ]
+      },
+      "properties": {
+        "name": "Railway Club",
+        "price": 2,
+        "sketchiness": 0,
+        "hours": "4-22",
+        "cover": "After 9 on Fri/Sat"
+      }
+    }
+  ]
+}
